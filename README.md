@@ -1,2 +1,2 @@
 # JS-Projects
-JS projects from simple to complicated
+JS projects from simple to complicate
